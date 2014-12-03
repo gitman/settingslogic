@@ -11,7 +11,7 @@ our apps, maybe you will enjoy it too.  Settingslogic works with Rails, Sinatra,
 
 == Installation
 
-  gem install settingslogic
+  gem 'settingslogic', :git => 'https://github.com/gitman/settingslogic.git'
 
 == Usage
 
